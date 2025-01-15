@@ -1,19 +1,13 @@
 ## Hi there 👋
-
-
-  🔭 I’m currently working on my Personal Portfolio Website
+🔭 I'm currently working on my Personal Portfolio Website
   
-  🌱 I’m currently learning Javascript
+🌱 I'm currently learning Javascript
   
-  📫 How to reach me: riyanmak123@gmail.com
+📫 How to reach me: riyanmak123@gmail.com
   
-  ⚡ Fun fact: 
-
-
+⚡ Fun fact: Other than being a Software Developer I am a Martial Artist
 
 ## 🛠️ Skills & Tools
-
-
 <!-- Programming Languages -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -30,16 +24,13 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiyanMak&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RiyanMak&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanMak&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RiyanMak&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RiyanMak&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=RiyanMak&theme=radical)](https://git.io/streak-stats)
 
 
 
