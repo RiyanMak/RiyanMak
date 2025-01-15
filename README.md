@@ -24,13 +24,6 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RiyanMak&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RiyanMak&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RiyanMak&theme=radical)](https://git.io/streak-stats)
 
 
 
