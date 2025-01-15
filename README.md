@@ -2,8 +2,11 @@
 
 
   🔭 I’m currently working on my Personal Portfolio Website
+  
   🌱 I’m currently learning Javascript
+  
   📫 How to reach me: riyanmak123@gmail.com
+  
   ⚡ Fun fact: 
 
 
@@ -35,7 +38,18 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyanMak&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RiyanMak&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RiyanMak&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
