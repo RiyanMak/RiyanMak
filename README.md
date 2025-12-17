@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I'm currently working on my Personal Portfolio Website
+🔭 I'm currently collaborating on BSG by ACM UTD
   
-🌱 I'm currently learning Javascript
+🌱 I'm currently learning Golang
   
 📫 How to reach me: riyanmak123@gmail.com
   
