@@ -12,7 +12,7 @@
 ---
 
 - 🔭 I'm currently working as a **Full Stack Developer at ACM UTD**
-- 🌱 I'm currently learning **Golang & AWS Cloud Architecture**
+- 🌱 I'm currently learning **Golang, AWS Cloud Architecture, & Swift**
 - 🧠 I'm passionate about **AI/ML, Computer Vision & Real-time Systems**
 - ⚡ Fun fact: Other than being a Software Developer, I am a **Martial Artist**
 
